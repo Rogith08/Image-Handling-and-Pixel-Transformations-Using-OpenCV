@@ -1,4 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+## Name: ROGITH. K
+## Reg No: 212223110042
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
