@@ -1,4 +1,4 @@
-# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# Experiment 1-Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 ## Name: ROGITH. K
 ## Reg No: 212223110042
 ## AIM:
